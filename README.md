@@ -5,6 +5,9 @@
 
 *The Enterprise-Grade Production-Ready Multi-Agent Framework in Go*
 
+[![Website](https://img.shields.io/badge/website-modulox.app-blue)](https://www.modulox.app)
+[![Twitter](https://img.shields.io/badge/twitter-@ModuloX__ai-blue)](https://x.com/ModuloX_ai)
+
 [![Go Version](https://img.shields.io/github/go-mod/go-version/sanfactor/shengyenatie)](https://github.com/sanfactor/shengyenatie)
 [![License](https://img.shields.io/github/license/sanfactor/shengyenatie)](https://github.com/sanfactor/shengyenatie/blob/main/LICENSE)
 [![Documentation](https://img.shields.io/badge/docs-latest-blue)](https://github.com/sanfactor/shengyenatie/tree/main/docs)
