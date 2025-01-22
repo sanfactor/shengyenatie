@@ -24,10 +24,10 @@ ModuloX is a modular AI framework built in Go that provides a flexible and exten
 
 ```bash
 # Clone the repository
-git clone https://github.com/sanfactor/shengyenatie.git
+git clone https://github.com/user/modulox.git
 
 # Build the project
-cd shengyenatie
+cd modulox
 go build ./cmd/modulox
 
 # Run the agent

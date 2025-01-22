@@ -1,4 +1,4 @@
-module github.com/sanfactor/shengyenatie
+module github.com/user/modulox
 
 go 1.18
 

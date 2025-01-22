@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"time"
 
-	pb "github.com/sanfactor/shengyenatie/pkg/pb"
+	pb "github.com/user/modulox/pkg/pb"
 	"google.golang.org/grpc"
 )
 

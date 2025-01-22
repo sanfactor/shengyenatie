@@ -5,7 +5,7 @@ import (
 	"reflect"
 	"sync"
 
-	"github.com/sanfactor/shengyenatie/pkg/types"
+	"github.com/user/modulox/pkg/types"
 )
 
 // ToolRegistry manages tool registration and discovery

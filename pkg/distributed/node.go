@@ -6,9 +6,9 @@ import (
 	"sync"
 	"time"
 
-	"github.com/sanfactor/shengyenatie/pkg/agent"
-	"github.com/sanfactor/shengyenatie/pkg/communication"
-	"github.com/sanfactor/shengyenatie/pkg/types"
+	"github.com/user/modulox/pkg/agent"
+	"github.com/user/modulox/pkg/communication"
+	"github.com/user/modulox/pkg/types"
 )
 
 // NodeConfig contains configuration for a distributed node

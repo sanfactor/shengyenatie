@@ -6,9 +6,9 @@ import (
 	"sync"
 	"time"
 
-	"github.com/sanfactor/shengyenatie/pkg/agent"
-	"github.com/sanfactor/shengyenatie/pkg/types"
-	"github.com/sanfactor/shengyenatie/pkg/communication"
+	"github.com/user/modulox/pkg/agent"
+	"github.com/user/modulox/pkg/types"
+	"github.com/user/modulox/pkg/communication"
 )
 
 // Workflow defines the interface for agent workflow orchestration

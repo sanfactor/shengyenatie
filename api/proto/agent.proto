@@ -2,7 +2,7 @@ syntax = "proto3";
 
 package modulox.v1;
 
-option go_package = "github.com/sanfactor/shengyenatie/api/proto";
+option go_package = "github.com/user/modulox/api/proto";
 
 // AgentService defines the gRPC service for agent communication
 service AgentService {

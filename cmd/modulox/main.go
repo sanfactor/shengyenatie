@@ -9,10 +9,10 @@ import (
 	"os/signal"
 	"syscall"
 
-	"github.com/sanfactor/shengyenatie/pkg/agent"
-	"github.com/sanfactor/shengyenatie/pkg/llm"
-	"github.com/sanfactor/shengyenatie/pkg/memory"
-	"github.com/sanfactor/shengyenatie/pkg/tools"
+	"github.com/user/modulox/pkg/agent"
+	"github.com/user/modulox/pkg/llm"
+	"github.com/user/modulox/pkg/memory"
+	"github.com/user/modulox/pkg/tools"
 )
 
 func main() {

@@ -6,8 +6,8 @@ import (
 	"sync"
 	"time"
 
-	"github.com/sanfactor/shengyenatie/pkg/communication"
-	"github.com/sanfactor/shengyenatie/pkg/types"
+	"github.com/user/modulox/pkg/communication"
+	"github.com/user/modulox/pkg/types"
 )
 
 // ClusterConfig contains configuration for the distributed cluster

@@ -5,8 +5,8 @@ import (
 	"fmt"
 	"sync"
 
-	"github.com/sanfactor/shengyenatie/pkg/agent"
-	"github.com/sanfactor/shengyenatie/pkg/communication"
+	"github.com/user/modulox/pkg/agent"
+	"github.com/user/modulox/pkg/communication"
 )
 
 // Coordinator manages collaboration between multiple agents

@@ -6,10 +6,10 @@ import (
 	"sync"
 	"time"
 
-	"github.com/sanfactor/shengyenatie/pkg/llm"
-	"github.com/sanfactor/shengyenatie/pkg/memory"
-	"github.com/sanfactor/shengyenatie/pkg/tools"
-	"github.com/sanfactor/shengyenatie/pkg/types"
+	"github.com/user/modulox/pkg/llm"
+	"github.com/user/modulox/pkg/memory"
+	"github.com/user/modulox/pkg/tools"
+	"github.com/user/modulox/pkg/types"
 )
 
 // BaseAgentConfig contains configuration for base agent

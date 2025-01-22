@@ -3,7 +3,7 @@ package agent
 import (
 	"context"
 
-	"github.com/sanfactor/shengyenatie/pkg/types"
+	"github.com/user/modulox/pkg/types"
 )
 
 // Agent defines the interface for an AI agent
